@@ -1,0 +1,14 @@
+/Users/abimbolaopakunle/Desktop/projects/C# core/bin/Debug/net9.0/C# core
+/Users/abimbolaopakunle/Desktop/projects/C# core/bin/Debug/net9.0/C# core.deps.json
+/Users/abimbolaopakunle/Desktop/projects/C# core/bin/Debug/net9.0/C# core.runtimeconfig.json
+/Users/abimbolaopakunle/Desktop/projects/C# core/bin/Debug/net9.0/C# core.dll
+/Users/abimbolaopakunle/Desktop/projects/C# core/bin/Debug/net9.0/C# core.pdb
+/Users/abimbolaopakunle/Desktop/projects/C# core/obj/Debug/net9.0/C# core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abimbolaopakunle/Desktop/projects/C# core/obj/Debug/net9.0/C# core.AssemblyInfoInputs.cache
+/Users/abimbolaopakunle/Desktop/projects/C# core/obj/Debug/net9.0/C# core.AssemblyInfo.cs
+/Users/abimbolaopakunle/Desktop/projects/C# core/obj/Debug/net9.0/C# core.csproj.CoreCompileInputs.cache
+/Users/abimbolaopakunle/Desktop/projects/C# core/obj/Debug/net9.0/C# core.dll
+/Users/abimbolaopakunle/Desktop/projects/C# core/obj/Debug/net9.0/refint/C# core.dll
+/Users/abimbolaopakunle/Desktop/projects/C# core/obj/Debug/net9.0/C# core.pdb
+/Users/abimbolaopakunle/Desktop/projects/C# core/obj/Debug/net9.0/C# core.genruntimeconfig.cache
+/Users/abimbolaopakunle/Desktop/projects/C# core/obj/Debug/net9.0/ref/C# core.dll
